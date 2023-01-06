@@ -2,7 +2,7 @@
 
 ## Hi I'm Tavis 
 
-![Tavis](https://github.com/TranNhatTan0312/TranNhatTan0312/blob/36722d0949fc54c1902cdad8861fc296cb3605f6/Profile.png)
+![Tavis](https://github.com/TranNhatTan0312/TranNhatTan0312/blob/9ada428997838f4054aa0beabbba4e04b15d3c51/profile.png)
 
 :computer: Study at University of Information Technology :desert_island:Living in Ho Chi Minh city 
 
