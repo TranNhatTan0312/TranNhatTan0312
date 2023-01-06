@@ -1,6 +1,6 @@
 
 
-## Hi I'm Tavis :fox_face:
+## Hi I'm Tavis 
 
 ![Tavis](https://github.com/TranNhatTan0312/TranNhatTan0312/blob/36722d0949fc54c1902cdad8861fc296cb3605f6/Profile.png)
 
