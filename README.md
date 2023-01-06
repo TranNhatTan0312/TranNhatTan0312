@@ -33,4 +33,4 @@
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 
 ---
-⭐️ From [Gaboso](https://github.com/Gaboso)
+⭐️ Template from [Gaboso](https://github.com/Gaboso)
