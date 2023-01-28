@@ -8,14 +8,15 @@
 
 
 #### Database
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-lightgrey)
 ![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle)
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 
 #### Visualization
 ![MS Excel](https://img.shields.io/badge/-Excel-green)
-![Power BI desktop](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Google data studio](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Power BI desktop](https://img.shields.io/badge/-Power%20BI-orange)
+![Google data studio](https://img.shields.io/badge/-Google%20Data%20Studio-yellow)
+![TableAu](https://img.shields.io/badge/-Tableau-9cf)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
 #### Others
