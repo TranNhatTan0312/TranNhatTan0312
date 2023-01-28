@@ -13,7 +13,7 @@
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 
 #### Visualization
-![MS Excel](https://img.shields.io/badge/-MS%Excel-%231572B6?style=flat-square&logo=excel)
+![MS Excel](https://img.shields.io/static/v1?label=MS%EXCEL&message=<MESSAGE>&color=green)
 ![Power BI desktop](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Google data studio](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
