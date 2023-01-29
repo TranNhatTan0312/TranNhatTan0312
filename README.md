@@ -6,11 +6,17 @@
 
 :computer: Study at University of Information Technology :desert_island:Living in Ho Chi Minh city 
 
+#### Python library
+![Pandas](https://img.shields.io/badge/-Pandas-blueviolet)
+![](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle)
+![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![CouchDB](https://img.shields.io/badge/-CouchDB-red)
 
 #### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-lightgrey)
 ![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle)
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![CouchDB](https://img.shields.io/badge/-CouchDB-red)
 
 #### Visualization
 ![MS Excel](https://img.shields.io/badge/-Excel-green)
