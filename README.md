@@ -23,7 +23,7 @@
 ![Power BI desktop](https://img.shields.io/badge/-Power%20BI-orange)
 ![Google data studio](https://img.shields.io/badge/-Google%20Data%20Studio-yellow)
 ![TableAu](https://img.shields.io/badge/-Tableau-9cf)
-![ReportBuilder] (https://img.shields.io/badge/-VS%20Studio%20Report%20Builder-blueviolet)
+![ReportBuilder](https://img.shields.io/badge/-VS%20Studio%20Report%20Builder-blueviolet)
 
 #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
