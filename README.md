@@ -17,7 +17,7 @@
 ---
 
 
-#### SQL and Database skills
+#### Database and SQL skills
 ![MySQL](https://img.shields.io/badge/-MySQL-lightgrey)
 ![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle)
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
@@ -25,6 +25,7 @@
 
 ![MDX](https://img.shields.io/badge/-MDX%20Query-success)
 ![SQL](https://img.shields.io/badge/-SQL%20Query-orange)
+![PTan](https://img.shields.io/badge/-Distributed%20database-blueviolet)
 ---
 
 
