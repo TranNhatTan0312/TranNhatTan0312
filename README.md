@@ -14,7 +14,7 @@
 ![Keras](https://img.shields.io/badge/-Keras-red)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-lightgrey)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-9cf)
-
+---
 
 
 #### SQL and Database skills
@@ -22,10 +22,10 @@
 ![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle)
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![CouchDB](https://img.shields.io/badge/-CouchDB-red)
-----
+
 ![MDX](https://img.shields.io/badge/-MDX%20Query-success)
 ![SQL](https://img.shields.io/badge/-SQL%20Query-orange)
-
+---
 
 
 #### Visualization
@@ -34,7 +34,7 @@
 ![Google data studio](https://img.shields.io/badge/-Google%20Data%20Studio-yellow)
 ![TableAu](https://img.shields.io/badge/-Tableau-9cf)
 ![ReportBuilder](https://img.shields.io/badge/-VS%20Studio%20Report%20Builder-blueviolet)
-
+---
 #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
