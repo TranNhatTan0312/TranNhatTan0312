@@ -9,10 +9,13 @@
 #### Python libraries and frameworks
 ![Pandas](https://img.shields.io/badge/-Pandas-blueviolet)
 ![Numpy](https://img.shields.io/badge/-Numpy-blue)
-![Keras](https://img.shields.io/badge/-Keras-red)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-lightgrey)
 ![Tensorflow](https://img.shields.io/badge/-TensorFlow-yellow)
 ![Sklearn](https://img.shields.io/badge/-Scikit--learn-informational)
+![Keras](https://img.shields.io/badge/-Keras-red)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-lightgrey)
+![Seaborn](https://img.shields.io/badge/-Seaborn-9cf)
+
+
 
 #### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-lightgrey)
@@ -34,6 +37,6 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
-
+![PySpark](https://img.shields.io/badge/-PySpark-critical)
 ---
 ⭐️ Template from [Gaboso](https://github.com/Gaboso)
