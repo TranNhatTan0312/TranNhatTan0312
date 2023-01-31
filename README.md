@@ -36,6 +36,18 @@
 ![TableAu](https://img.shields.io/badge/-Tableau-9cf)
 ![ReportBuilder](https://img.shields.io/badge/-VS%20Studio%20Report%20Builder-blueviolet)
 ---
+#### Software & Tools
+![PySpark](https://img.shields.io/badge/-PySpark-critical)
+![Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-orange)
+![Anaconda](https://img.shields.io/badge/-Anaconda%20Navigator-success)
+![Figma](https://img.shields.io/badge/-Figma-blue)
+![StarUML](https://img.shields.io/badge/-StarUML-yellow)
+![Gephi](https://img.shields.io/badge/-Gephi-black)
+![Rstudio](https://img.shields.io/badge/-RStudio-inactive)
+![Pinot](https://img.shields.io/badge/-Apache%20Pinot-blueviolet)
+![Impala](https://img.shields.io/badge/-Apache%20Impala-lightgrey)
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-violet)
+---
 #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -43,7 +55,8 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
-![PySpark](https://img.shields.io/badge/-PySpark-critical)
-![PySpark](https://img.shields.io/badge/-Hadoop-yellowgreen)
+![Hadoop](https://img.shields.io/badge/-Hadoop-yellowgreen)
+
+
 ---
 ⭐️ Template from [Gaboso](https://github.com/Gaboso)
