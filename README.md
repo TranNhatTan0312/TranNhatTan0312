@@ -11,8 +11,8 @@
 ![Numpy](https://img.shields.io/badge/-Numpy-blue)
 ![Keras](https://img.shields.io/badge/-Keras-red)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-lightgrey)
-![Tensorflow](https://img.shields.io/badge/-Matplotlib-lightgrey)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-lightgrey)
+![Tensorflow](https://img.shields.io/badge/-TensorFlow-yellow)
+![Sklearn](https://img.shields.io/badge/-Scikit--learn-informational)
 
 #### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-lightgrey)
