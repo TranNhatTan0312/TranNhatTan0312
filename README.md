@@ -1,6 +1,6 @@
 
 
-## Hi I'm Tavis 
+## Hi I'm Tavis and my Vietnamese's name is Tran Nhat Tan
 
 ![Tavis](https://github.com/TranNhatTan0312/TranNhatTan0312/blob/9ada428997838f4054aa0beabbba4e04b15d3c51/profile.png)
 
