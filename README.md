@@ -6,6 +6,8 @@
 
 :computer: Study at University of Information Technology :desert_island:Living in Ho Chi Minh city 
 
+## I have basic skills of :
+
 #### Python libraries and frameworks
 ![Pandas](https://img.shields.io/badge/-Pandas-blueviolet)
 ![Numpy](https://img.shields.io/badge/-Numpy-blue)
@@ -29,7 +31,7 @@
 ---
 
 
-#### Visualization
+#### Visualization 
 ![MS Excel](https://img.shields.io/badge/-Excel-green)
 ![Power BI desktop](https://img.shields.io/badge/-Power%20BI-orange)
 ![Google data studio](https://img.shields.io/badge/-Google%20Data%20Studio-yellow)
