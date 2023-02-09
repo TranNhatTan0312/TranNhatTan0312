@@ -6,7 +6,7 @@
 
 :computer: Study at University of Information Technology :desert_island:Living in Ho Chi Minh city 
 
-## I have the following basic skills:
+## I have the following basic level skills:
 
 #### Python libraries and frameworks
 ![Pandas](https://img.shields.io/badge/-Pandas-blueviolet)
