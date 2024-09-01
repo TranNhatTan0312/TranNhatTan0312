@@ -2,7 +2,7 @@
 
 ## Hi I'm Tran Nhat Tan and my English name is Tavis
 
-![Tavis](https://github.com/TranNhatTan0312/TranNhatTan0312/blob/9ada428997838f4054aa0beabbba4e04b15d3c51/profile.png)
+![Tavis](Tavis Tran (3).png)
 
 :computer: Study at University of Information Technology :desert_island:Living in Ho Chi Minh city 
 
