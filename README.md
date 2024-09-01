@@ -4,7 +4,7 @@
 
 ![Tavis](https://github.com/TranNhatTan0312/TranNhatTan0312/blob/main/Tavis%20Tran%20(3).png)
 
-:computer: Study at University of Information Technology :desert_island:Living in Ho Chi Minh city 
+:computer: Information Systems Engineer at University of Information Technology :desert_island: Living in Ho Chi Minh city 
 
 ## I have the following basic level skills:
 
