@@ -42,11 +42,8 @@
 ![Anaconda](https://img.shields.io/badge/-Anaconda%20Navigator-success)
 ![Figma](https://img.shields.io/badge/-Figma-blue)
 ![StarUML](https://img.shields.io/badge/-StarUML-yellow)
-![Gephi](https://img.shields.io/badge/-Gephi-black)
 ![Rstudio](https://img.shields.io/badge/-RStudio-inactive)
-![Pinot](https://img.shields.io/badge/-Apache%20Pinot-blueviolet)
-![Impala](https://img.shields.io/badge/-Apache%20Impala-lightgrey)
-![Kafka](https://img.shields.io/badge/-Apache%20Kafka-violet)
+![n8n](https://img.shields.io/badge/-n8n-blueviolet)
 ---
 
 #### Others
@@ -54,8 +51,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
-![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-yellowgreen)
 
 ---
