@@ -33,7 +33,6 @@
 ![MS Excel](https://img.shields.io/badge/-Excel-green)
 ![Power BI desktop](https://img.shields.io/badge/-Power%20BI-orange)
 ![Google Looker Studio](https://img.shields.io/badge/-Google%20Looker%20Studio-yellow)
-![TableAu](https://img.shields.io/badge/(In%20progress)-Tableau-9cf)
 ![ReportBuilder](https://img.shields.io/badge/-VS%20Studio%20Report%20Builder-blueviolet)
 ---
 
